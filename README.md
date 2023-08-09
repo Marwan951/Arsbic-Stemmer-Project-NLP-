@@ -1,1 +1,4 @@
-# Arsbic-Stemmer-Project-NLP-
+# Arabic-Stemmer-Project-NLP
+![3](https://github.com/Marwan951/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/assets/95751506/897cfd47-cfe7-4403-993e-ec536f53a731)
+
+The "Arabic Stemmer Project-NLP" focuses on creating a powerful Arabic language stemmer for natural language processing. This project aims to simplify Arabic words into their core forms, enhancing various language analysis tasks. By tackling the intricacies of Arabic morphology, it contributes to improved information retrieval, sentiment analysis, and machine translation. The stemmer's linguistic analysis and algorithmic design promise accurate results, benefiting researchers and developers in the NLP field. Ultimately, this project advances Arabic language processing capabilities, facilitating more sophisticated text analysis in Arabic.
